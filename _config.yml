@@ -3,7 +3,8 @@ title: GameTube
 SEOTitle: GameTube
 header-img: img/post-bg-desk.jpg
 email: xux_game@163.com
-description: "让游戏带来更好的体验！" # "GameTube来自于一群热爱游戏的人，我们希望在这里可以互相交流和分享对游戏的热爱"
+description: "让游戏带来更好的体验!" 
+# "GameTube来自于一群热爱游戏的人，我们希望在这里可以互相交流和分享对游戏的热爱"
 keyword: "游戏体验, 交互设计,设计思考, 行业分析"
 url: "https://klovien.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'

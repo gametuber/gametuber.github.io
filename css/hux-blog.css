@@ -248,7 +248,7 @@ pre code {
 .post-container h5 {
   font-size: 16px;
   font-weight: 600;
-  color: black;
+ /* color: black;*/
 }
 .post-container h5 + p {
   margin-top: 2px;
@@ -256,7 +256,7 @@ pre code {
 .post-container h6 {
   font-size: 16px;
   font-weight: 600;
-  color: black;
+ /* color: black;*/
 }
 .post-container h6 + p {
   margin-top: 5px;

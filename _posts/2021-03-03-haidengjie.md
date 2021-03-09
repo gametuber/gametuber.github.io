@@ -4,7 +4,7 @@ title:      【二次元春节】原神「海灯节」—— 为二次元世界�
 subtitle:   
 date:       2021-03-03
 author:     卷儿
-header-img: img-post/20210303/01.png
+header-img: img/post-bg-miui6.jpg
 catalog: 	  true
 tags:
     - 游戏分析
@@ -14,7 +14,7 @@ tags:
 
 ![01]({{site.baseurl}}/img-post/20210303/01.png)
 
-##### <span style="background:#FF6827; color:white">*海灯节*</span>，一片量子之海宇宙中的璃月城迎来的一场声势浩大的庆典活动。每年第一个月圆之夜，便是璃月城的海灯节。在夜里，人们会放出<span style="background:#FF6827; color:white">*霄灯*</span>和<span style="background:#FF6827; color:white">*明霄灯*</span>升上夜空。
+** <span style="background:#FF6827; color:white">*海灯节*</span>，一片量子之海宇宙中的璃月城迎来的一场声势浩大的庆典活动。每年第一个月圆之夜，便是璃月城的海灯节。在夜里，人们会放出<span style="background:#FF6827; color:white">*霄灯*</span>和<span style="background:#FF6827; color:white">*明霄灯*</span>升上夜空。**
 
 ![02]({{site.baseurl}}/img-post/20210303/02.gif)
 
@@ -38,7 +38,7 @@ tags:
 
 <center><span style="color:grey">图：海灯节活动主界面 </span></center>
 
-#####  在本次的海灯节主要投放了<span style="background:#FF6827; color:white">*明霄升海平*</span>、<span style="background:#FF6827; color:white">*海灯节轶事*</span>、<span style="background:#FF6827; color:white">*机关棋谭*</span>、<span style="background:#FF6827; color:white">*霄市*</span>、<span style="background:#FF6827; color:white">*六翮奋彰*</span>几个活动。活动界面以带有动效的场景形式展示，视觉表现上呈现了庆典氛围。
+**  在本次的海灯节主要投放了<span style="background:#FF6827; color:white">*明霄升海平*</span>、<span style="background:#FF6827; color:white">*海灯节轶事*</span>、<span style="background:#FF6827; color:white">*机关棋谭*</span>、<span style="background:#FF6827; color:white">*霄市*</span>、<span style="background:#FF6827; color:white">*六翮奋彰*</span>几个活动。活动界面以带有动效的场景形式展示，视觉表现上呈现了庆典氛围。**
 
 #### 1. **明霄升海平**
 

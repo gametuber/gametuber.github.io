@@ -4,7 +4,7 @@ title:      【二次元春节】原神「海灯节」—— 为二次元世界�
 subtitle:   
 date:       2021-03-03
 author:     卷儿
-header-img: img-post/01.png
+header-img: img-post/20210303/01.png
 catalog: 	  true
 tags:
     - 游戏分析

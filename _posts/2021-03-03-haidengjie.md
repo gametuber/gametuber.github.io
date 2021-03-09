@@ -132,11 +132,11 @@ tags:
 
 <center><span style="color:grey">图：六翮奋彰角色选择界面 </span></center>
 
-原神在春节期间推出的海灯节庆典中投放了多个玩法。由于<span style="background:#FF6827; color:white">***精良的氛围包装***</span>和<span style="background:#FF6827; color:white">***能够保持水准的剧情***</span>，使得活动在初期还是较为吸引人的，但是随着时间推进，逐步开放更多活动内容后暴露了<span style="background:#FF6827; color:white">***能够保持水准的剧情***</span>的问题，使得探索乐趣有所折扣。当然其中也不乏机关棋谭这样打磨较为精细的玩法。
+原神在春节期间推出的海灯节庆典中投放了多个玩法。由于<span style="color:#FF6827">***精良的氛围包装***</span>和<span style= color:#FF6827">***能够保持水准的剧情***</span>，使得活动在初期还是较为吸引人的，但是随着时间推进，逐步开放更多活动内容后暴露了<span style=" color:#FF6827">**玩法同质化严重***</span>的问题，使得探索乐趣有所折扣。当然其中也不乏机关棋谭这样打磨较为精细的玩法。
 
 
 
-海灯节活动能够在春节期间获得不错热度很大程度上也要归功于各项活动设计中<span style="background:#FF6827; color:white">***“人人平等”***</span>的思路，只要玩家能够认真参加活动，总归是能获得不错的奖励回报。虽然要求玩家<span style="background:#FF6827; color:white">***认真努力***</span>游戏的评价，听起来也并不是什么溢美之词(-o-)。
+海灯节活动能够在春节期间获得不错热度很大程度上也要归功于各项活动设计中<span style="color:#FF6827">***“人人平等”***</span>的思路，只要玩家能够认真参加活动，总归是能获得不错的奖励回报。虽然要求玩家<span style=" color:#FF6827">***认真努力***</span>游戏的评价，听起来也并不是什么溢美之词(-o-)。
 
 
 

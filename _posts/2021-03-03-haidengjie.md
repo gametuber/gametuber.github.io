@@ -38,7 +38,7 @@ tags:
 
 <center><span style="color:grey">图：海灯节活动主界面 </span></center>
 
-   **在本次的海灯节主要投放了<span style="color:#FF6827">*明霄升海平*</span>、<span style="color:#FF6827">*海灯节轶事*</span>、<span style="color:#FF6827">*机关棋谭*</span>、<span style="color:#FF6827">*霄市*</span>、<span style="color:#FF6827">*六翮奋彰*</span>几个活动。活动界面以带有动效的场景形式展示，视觉表现上呈现了庆典氛围。**
+   **在本次的海灯节主要投放了<span style="color:#FF6827">*明霄升海平*</span>、<span style="color:#FF6827">*海灯节轶事*</span>、<span style="color:#FF6827">*机关棋谭*</span>、<span style="color:#FF6827">*霄市*</span>、<span style="color:#FF6827">*六翮奋彰*</span> 几个活动。活动界面以带有动效的场景形式展示，视觉表现上呈现了庆典氛围。**
 
 #### 1. **明霄升海平**
 

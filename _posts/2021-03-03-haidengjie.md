@@ -14,7 +14,7 @@ tags:
 
 ![01]({{site.baseurl}}/img-post/20210303/01.png)
 
-** <span style="background:#FF6827; color:white">*海灯节*</span>，一片量子之海宇宙中的璃月城迎来的一场声势浩大的庆典活动。每年第一个月圆之夜，便是璃月城的海灯节。在夜里，人们会放出<span style="background:#FF6827; color:white">*霄灯*</span>和<span style="background:#FF6827; color:white">*明霄灯*</span>升上夜空。**
+**<span style="background:#FF6827; color:white">*海灯节*</span>，一片量子之海宇宙中的璃月城迎来的一场声势浩大的庆典活动。每年第一个月圆之夜，便是璃月城的海灯节。在夜里，人们会放出<span style="background:#FF6827; color:white">*霄灯*</span>和<span style="background:#FF6827; color:white">*明霄灯*</span>升上夜空。**
 
 ![02]({{site.baseurl}}/img-post/20210303/02.gif)
 

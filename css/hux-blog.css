@@ -248,7 +248,7 @@ pre code {
 .post-container h5,
 .post-container h6 {
  margin: 30px 0 10px;
-color:black;
+color: #242424;
 
 }
 .post-container h3 {
@@ -308,6 +308,7 @@ color:black;
 .post-container li p {
   margin: 0;
   margin-bottom: 5px;
+color: #242424;
 }
 .post-container li h1,
 .post-container li h2,
@@ -337,8 +338,8 @@ color:black;
 }
 
 .post-container mark {
-  background-color: #E2F0FF;
-  color: #616E7B;
+  background-color: #FFB86C;
+  color: #242424;
   padding: 0.2rem 0.4rem;
   border-radius: 0.3rem;
   box-decoration-break: clone;

@@ -273,7 +273,7 @@ color: #242424;
 .post-container h6 {
   font-size: 14px;
   font-weight: 600;
-color:grey;
+  color:grey;
  /* color: black;*/
 }
 .post-container h6 + p {
@@ -316,6 +316,7 @@ color: #242424;
 .post-container li h4,
 .post-container li h5,
 .post-container li h6 {
+
   line-height: 2;
   margin-top: 20px;
 }
@@ -338,8 +339,8 @@ color: #242424;
 }
 
 .post-container mark {
-  background-color: #FFB86C;
-  color: #242424;
+  background-color: #F4F4F4;
+  color: #71C1B0;
   font-weight: bold;
   padding: 0.2rem 0.4rem;
   border-radius: 0.3rem;

@@ -337,10 +337,10 @@ color:black;
 }
 
 .post-container mark {
-  background-color: #3884ff;
-  color: white;
+  background-color: #E2F0FF;
+  color: #616E7B;
   padding: 0.2rem 0.4rem;
-  border-radius: 0.2rem;
+  border-radius: 0.3rem;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }

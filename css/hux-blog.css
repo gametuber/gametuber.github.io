@@ -247,7 +247,7 @@ pre code {
 .post-container h4,
 .post-container h5,
 .post-container h6 {
- margin: 30px 0 10px;
+ margin: 20px 0 10px;
 color: #242424;
 
 }
@@ -340,7 +340,7 @@ color: #242424;
 
 .post-container mark {
   background-color: #F4F4F4;
-  color: #6BBBD0;
+  color: #27A7C3;
   font-weight: bold;
   padding: 0.4rem 0.6rem;
   border-radius: 0.3rem;

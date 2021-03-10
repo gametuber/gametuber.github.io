@@ -247,8 +247,8 @@ pre code {
 .post-container h4,
 .post-container h5,
 .post-container h6 {
-  margin: 30px 0 10px;
-color:black;
+ margin: 30px 0 10px;
+color:grey;
 
 }
 .post-container h5 {
@@ -268,8 +268,8 @@ color:black;
   margin-top: 5px;
 }
 .post-container code{
-	 background-color:#f7f7f7;
-	color:black;
+background-color:#f7f7f7;
+color:black;
 }
 .post-container ul,
 .post-container ol {

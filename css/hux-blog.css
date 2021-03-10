@@ -141,7 +141,7 @@ body {
   overflow-x: hidden;
 }
 p {
-  margin: 20px 0;
+  margin: 15px 0;
 }
 h1,
 h2,
@@ -258,7 +258,7 @@ color: #242424;
 	
 }
 .post-container h4 {
-margin-top: 50px;
+margin-top: 40px;
   font-size: 16px;
   font-weight: 600;
 	
@@ -271,7 +271,7 @@ margin-top: 30px;
 }
 
 .post-container h5 + p {
-  margin-top: 0px;
+  margin-top: 5px;
 }
 .post-container h6 {
   font-size: 14px;

@@ -252,16 +252,19 @@ color: #242424;
 
 }
 .post-container h3 {
+ margin-top: 15px;
   font-size: 20px;
   font-weight: 600;
 	
 }
 .post-container h4 {
+margin-top: 10px;
   font-size: 16px;
   font-weight: 600;
 	
 }
 .post-container h5 {
+margin-top: 5px;
   font-size: 16px;
   font-weight: 600;
   

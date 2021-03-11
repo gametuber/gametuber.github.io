@@ -1,3 +1,19 @@
+---
+layout:     post
+title:      【幻书启示录】密世文字消失事件——开启二次元世界的文字之旅
+subtitle:   游戏分析
+date:       2021-03-10
+author:     小涵
+header-img: img/post-bg-miui6.jpg
+catalog: 	  true
+tags:
+    - 游戏分析
+
+---
+
+![01]({{site.baseurl}}/img-post/20210303/01.png)
+
+
 ## 1. 标题从h3开始，h3,h4,h5,h6
 ### 大标题
 #### 二级标题

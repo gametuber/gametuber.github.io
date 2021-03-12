@@ -136,7 +136,7 @@ body {
      */
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
-  font-size: 16px;
+  font-size: 14px;
   color: #404040;
   overflow-x: hidden;
 }
@@ -345,7 +345,7 @@ color: #242424;
   background-color: #FFDE67;
   
   font-weight: bold;
-  padding: 0.5rem 0.6rem;
+  padding: 0.4rem 0.4rem;
   border-radius: 0.3rem;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;

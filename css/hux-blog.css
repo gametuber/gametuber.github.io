@@ -342,9 +342,9 @@ color: #242424;
 }
 
 .post-container mark {
-  background-color: #e0ddd1;
+  background-color: #ffe697;
   
-  font-weight: bold;
+ /* font-weight: bold;*/
   padding: 0.4rem 0.4rem;
   border-radius: 0.3rem;
   box-decoration-break: clone;

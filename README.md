@@ -1,4 +1,5 @@
-本项目示范网站地址为：https://gametuber.github.io 。
+本项目示范网站地址为：新：http://gametube.fun/
+https://gametuber.github.io 。
 
 
 

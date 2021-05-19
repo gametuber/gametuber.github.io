@@ -11,8 +11,6 @@ tags:
 
 ---
 
-![01]({{site.baseurl}}/img-post/20210303/01.png)
-
 
 ## 1. 标题从h3开始，h3,h4,h5,h6
 ### 大标题
@@ -28,6 +26,7 @@ tags:
 
 ## 4. 图片引用示例：
 ![01]({{site.baseurl}}/img-post/20210301/01.png)
+图片放在img文件夹内，按照日期命名
 
 ## 5.图片下标
 <center><span style = "color:grey">（交互应聘同学的作品集）</span></center>

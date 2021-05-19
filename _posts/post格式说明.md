@@ -29,6 +29,6 @@ tags:
 图片放在img文件夹内，按照日期命名
 
 ## 5.图片下标
-<center><span style = "color:grey">（交互应聘同学的作品集）</span></center>
+<center><span style = "color:grey">图片说明图片说明</span></center>
 
 格式统一修改见css文件夹中post相关css文件

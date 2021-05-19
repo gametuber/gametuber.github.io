@@ -1,6 +1,9 @@
 本项目示范网站地址为：新：http://gametube.fun/
 https://gametuber.github.io 。
 
+### 说明
+1.post格式说明在 posts/post格式说明.md 
+2.post格式统一修改在 css/hux-blog.css
 
 
 ### 致谢
